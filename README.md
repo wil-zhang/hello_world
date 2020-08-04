@@ -2,4 +2,4 @@
 My first repository
 
 
-hey there, glad to be here with you guys.
+Hey there, glad to be here with you guys.
